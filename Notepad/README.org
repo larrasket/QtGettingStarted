@@ -1,3 +1,6 @@
 #+TITLE: Notepad
 
+* Description
 Notepad. Minimal qt-based notepad-like text editor.
+* Screenshot(s)
+[[file:/mnt/0E08DBBF08DBA3CD/me/gits/QtGettingStarted/Screenshots/2022-04-16_11-07.png]]
