@@ -1,0 +1,5 @@
+/mnt/0E08DBBF08DBA3CD/me/gits/QtGettingStarted/Notepad/cmake-build-debug/CMakeFiles/Notepad.dir
+/mnt/0E08DBBF08DBA3CD/me/gits/QtGettingStarted/Notepad/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/0E08DBBF08DBA3CD/me/gits/QtGettingStarted/Notepad/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/0E08DBBF08DBA3CD/me/gits/QtGettingStarted/Notepad/cmake-build-debug/CMakeFiles/Notepad_autogen_timestamp_deps.dir
+/mnt/0E08DBBF08DBA3CD/me/gits/QtGettingStarted/Notepad/cmake-build-debug/CMakeFiles/Notepad_autogen.dir

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Notepad.dir/Notepad_autogen/mocs_compilation.cpp.o CMakeFiles/Notepad.dir/main.cpp.o CMakeFiles/Notepad.dir/notepadmainwindow.cpp.o -o Notepad  /usr/lib/libQt6Widgets.so.6.2.4 /usr/lib/libQt6Gui.so.6.2.4 /usr/lib/libQt6Core.so.6.2.4 /usr/lib/libGLX.so /usr/lib/libOpenGL.so 

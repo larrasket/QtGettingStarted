@@ -1,0 +1,4 @@
+/home/ghd/me/gits/QtGettingStarted/build-Notepad-Desktop-Debug/CMakeFiles/Notepad.dir
+/home/ghd/me/gits/QtGettingStarted/build-Notepad-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/ghd/me/gits/QtGettingStarted/build-Notepad-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/ghd/me/gits/QtGettingStarted/build-Notepad-Desktop-Debug/CMakeFiles/Notepad_autogen.dir

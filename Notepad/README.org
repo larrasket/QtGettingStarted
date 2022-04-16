@@ -1,0 +1,3 @@
+#+TITLE: Notepad
+
+Notepad. Minimal qt-based notepad-like text editor.
